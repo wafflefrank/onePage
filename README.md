@@ -1,4 +1,4 @@
-# waffle_backend
+# waffle_onePage
 
 ## Project setup
 ```
